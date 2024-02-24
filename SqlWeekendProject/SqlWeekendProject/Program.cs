@@ -5,6 +5,7 @@ using SqlWeekendProject.Data;
 using SqlWeekendProject.Model;
 
 string opt;
+do
 {
     Console.WriteLine("1.Create speaker");
     Console.WriteLine("2.Get by id speaker");
@@ -97,9 +98,7 @@ void AddSpeaker(SpeakerDao speakerDao,List<int> speakerIds)
     };
     speakerDao.Insert(speaker);
     speakerIds.Add(speaker.ID);
-
 }
-
 void GetSpeakerById(SpeakerDao speakerDao)
 {
     Id:
@@ -321,4 +320,5 @@ bool CheckString(string str)
     }
     else return true;
 }
+
 Console.ReadLine();
