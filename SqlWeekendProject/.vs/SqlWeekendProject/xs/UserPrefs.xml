@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D8197E57-D045-463A-A101-3002E6DBA265}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SqlWeekendProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqlWeekendProject/Program.cs">
+    <Files>
+      <File FileName="SqlWeekendProject/Program.cs" Line="7" Column="12" />
+      <File FileName="SqlWeekendProject/Model/Events.cs" Line="28" Column="1" />
+      <File FileName="SqlWeekendProject/Model/Speakers.cs" Line="25" Column="1" />
+      <File FileName="SqlWeekendProject/Data/EventDao.cs" Line="19" Column="13" />
+      <File FileName="SqlWeekendProject/Data/SpeakerDao.cs" Line="23" Column="21" />
+      <File FileName="SqlWeekendProject/Data/SqlConnectionStr.cs" Line="10" Column="1" />
+      <File FileName="SqlWeekendProject/Data/EventSpeaker.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SqlWeekendProject" expanded="True">
+            <Node name="SqlWeekendProject">
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
